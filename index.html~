@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1> This is my website</h1>
+<head>
+  <title> Guillermo Reyes </title>
+  
+  <body>
+    <h1> Welcome</h1>
+    <ul>
+      <li> 
+	<a href="MathematicalMusings.html">Mathematical Musings</a>
+	</li>
 
+    </ul>
 
-</body>
+  </body>
 </html>
